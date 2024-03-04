@@ -24,7 +24,7 @@ After you're done with your work just **commit & push** the changes:
 
 `git commit -m "Implemented ..."`
 
-`git push origin feature-data-cleaning`
+`git push origin <your-branch-nameg>`
 
 
 > If you just experimented a bit just leave it like this.
